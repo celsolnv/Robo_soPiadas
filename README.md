@@ -1,9 +1,4 @@
 <h1>Robô SoPiadas</h1>
-<style>
-    h1,h2,h3,h4{
-        font-family: Ubuntu;
-    }
-</style>
 <hr/>
 <h3>
     Este robô foi feito utilizando a biblioteca Selenium do python
